@@ -1,7 +1,7 @@
-// Shape.java (Part - 01)
+//Shape.java (Part - 01)
 
-public interface Shape 
+public abstract class Shape 
 {
-    double getArea();
+    public abstract double getArea();
+    public abstract double getPerimeter();
 }
-
