@@ -1,5 +1,5 @@
 /**
- * This program is created by : PRIYABRATRA CHOWDHURY (ID-23010105)
+ * This program is created by : PRIYABRATA CHOWDHURY (ID-23010105)
  * All rights reserved by the creator of this program.
 **/
 
